@@ -142,7 +142,7 @@ main_window.config(padx=30, pady=30, bg=BG_COLOR)
 
 # Canvas
 canvas = Canvas(width=200, height=170, highlightthickness=0)
-bg_image = PhotoImage(file="new_logo.png")
+bg_image = PhotoImage(file="logo.png")
 canvas.create_image(100, 100, image=bg_image)
 canvas.grid(column=1, row=0)
 
