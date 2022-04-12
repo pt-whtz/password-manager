@@ -21,6 +21,12 @@ A simple application helping you out with managing your passwords in any website
 - *and more!*
 
 
+## Deployment
+
+*Clone the repo and you are ready to run MAIN.py*
+
+*IDE I used: PyCharm*
+
 ## Demo
  <img src="https://user-images.githubusercontent.com/103358101/163044505-8f9385f7-6367-4926-9e50-d3adc1419dc9.png" alt="image" style="max-width: 100%;">
  
