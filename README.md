@@ -6,7 +6,7 @@ A simple application helping you out with managing your passwords in any website
 #### *__v1.0__*
 
  - *save & delete your passwords*
- - *available random password generator basing on a fixed randomising pattern*
+ - *available random password generator basing on a fixed randomising pattern of signs*
  - *collection of your password files (eg. work_pass, music etc.)*
  - *password files browser*
  - *message-based UX elements*
