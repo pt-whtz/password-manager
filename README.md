@@ -1,7 +1,9 @@
 # Password Manager App
 
+<blockquote>
 A simple application helping you out with managing your passwords in any websites 
-
+</blockquote>
+ 
 ## Features implemented
 #### *__v1.0__*
 
