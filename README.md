@@ -1,7 +1,7 @@
 # Password Manager App 🔒
 
 <blockquote>
-A simple application helping you out with managing your passwords used in any websites 
+A simple application helping you out with managing your passwords used in any websites and storing them in your local drive
 </blockquote>
 
 
