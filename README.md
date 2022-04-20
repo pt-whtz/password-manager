@@ -1,9 +1,10 @@
-# Password Manager App
+# Password Manager App 🔒
 
 <blockquote>
-A simple application helping you out with managing your passwords in any websites 
+A simple application helping you out with managing your passwords used in any websites 
 </blockquote>
- 
+
+
 ## Features implemented
 #### *__v1.0__*
 
@@ -18,6 +19,7 @@ A simple application helping you out with managing your passwords in any website
 
 - *an independent settings tool to customize a randomizing pattern (eg. len of password, number of special signs etc.)*
 - *default username/email*
+- *building a nice & shiny interface*
 - *set of color themes*
 - *clean & elegant code*
 - *and more!*
